@@ -23,7 +23,7 @@ Note: using a [virtualenv](https://virtualenv.pypa.io/en/latest/userguide/#usage
 Alternately you can install the usual way:
 
 
-    $ git clone https://github.com/blark/aiodnsbrute.git
+    $ git clone https://github.com/trhacknon/aiodnsbrute.git
     $ cd aiodnsbrute
     $ python setup.py install .
 
@@ -38,7 +38,7 @@ Get help:
       aiodnsbrute is a command line tool for brute forcing domain names
       utilizing Python's asyncio module.
 
-      credit: blark (@markbaseggio)
+      credit: trhacknon (anonymous)
 
     Options:
       -w, --wordlist TEXT           Wordlist to use for brute force.
